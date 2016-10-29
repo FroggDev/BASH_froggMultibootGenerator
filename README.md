@@ -37,5 +37,6 @@ MENUTIMEOUT="0"
 ### Background image
 MENUBGPATH=~/ISO/frogg.png
 
+#result
 
 <img src="https://tool.frogg.fr/inc/img/article/syslinux/Multiboot_generator.png"/>
